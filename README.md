@@ -28,7 +28,7 @@ What you enjoyed the most and why
 
 <ul>
 <li>I most enjoyed creating the animations for the icons because it’s not something I’ve had much experience with, but I learned something new and I’ll be having fun discovering and coming up with new animations in the future.
-<ul>
-<li>
+</li>
+</ul>
 </ol>
 <h2>Link to site: [RoosterGrin Front End Dev Test](https://sparkyparky911-hello-world.mdbgo.io/)</h2>
